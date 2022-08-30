@@ -1,0 +1,22 @@
+.wrapper {
+  width: 100%;
+  align-self: flex-start;
+}
+
+table {
+  width: 100%;
+}
+td {
+  text-align: center;
+}
+.button {
+  width: 50%;
+  height: 30px;
+  border: 1px solid #dddfe2;
+  border-radius: 15px;
+}
+.button:hover {
+  cursor: pointer;
+  border: 1px solid gray;
+  background-color: gray;
+}
